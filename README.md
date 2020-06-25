@@ -1,3 +1,4 @@
+# Movie Data Analysis
 ## Introduction
 <ul>
     <li>The notebook implements SQLite3 database for searching movies on platforms and suggest movie</li>
