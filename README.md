@@ -3,6 +3,8 @@
 <ul>
     <li>The notebook implements SQLite3 database for searching movies on platforms and suggest movie</li>
     <li>Analyze Data using graphs (bar race, pie chart, line graph) and data frames</li>
+    <li>Visualize the Relationships and Run Linear and Multiple Regressions</li>
+    <li>Perform In-sample and Out-sample prediction using ARMA model</li>
 </ul>
 
 ## Instruction for Using the Notebook
