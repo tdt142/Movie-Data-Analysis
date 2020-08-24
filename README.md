@@ -63,4 +63,21 @@
     </li>
 </ul>
 
+## Packages in use
+<ul>
+    <li>sqlite3: To implement SQLite database, and functions</li>
+    <li>csv: To use CSV-related function</li>
+    <li>matplotlib.pyplot: For data visualization</li>
+    <li>pandas: To use for data manipulation and analysis</li>
+    <li>numpy: To work with arrays</li>
+    <li>Seaborn: For data visualization</li>
+    <li>Linregress(scipy.stats): To run Linear Regression</li>
+    <li>statsmodels.formula.api: To use classes and functions for the estimation of, test statistical models</li>
+    <li>FuncAnimation(matplotlib.animation): To use function to draw a clear frame</li>
+    <li>HTML(IPython.display): To display media to the screen</li>
+    <li>SARIMAX(statsmodels.tsa.statespace.sarimax): To use and run ARMA model</li>
+</ul>
+
 ## Data Source: <a href="https://www.kaggle.com/ruchi798/movies-on-netflix-prime-video-hulu-and-disney">Here</a>
+
+## View on Kaggle: <a href= "https://www.kaggle.com/davidtran142/movie-data-analysis">Here</a>
